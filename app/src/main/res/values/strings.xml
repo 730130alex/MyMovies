@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movies Trailers</string>
+    <string name="poster_of_movie">Poster to movie</string>
+    <string name="most_popular">Most popular</string>
+    <string name="top_rated">Top ratede</string>
+    <string name="add_to_favorite">Added to favorite</string>
+    <string name="delite_from_favorite">Calcel from favorite</string>
+    <string name="item_main">Main</string>
+    <string name="item_favorite">Favorite</string>
+    <string name="start_trayler">Start trailer</string>
+    <string name="Big_poster">Big poster</string>
+    <string name="Add_to_favorite">Add to favorite</string>
+    <string name="LabelTitle">Title:</string>
+    <string name="Original_Title">Original title:</string>
+    <string name="Rating">"Rating: "</string>
+    <string name="ReleaseDate">"Release date: "</string>
+    <string name="Description">"Description: "</string>
+    <string name="player_error"> Error initializing YouTube player: %s </string>
+    <string name="seek_to"> Jump To </string>
+    <string name="seek_to_hint"> Seconds </string>
+
+</resources>

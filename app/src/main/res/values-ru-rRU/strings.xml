@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Трейлеры</string>
+    <string name="poster_of_movie">Постер к фильму</string>
+    <string name="most_popular">Самые популярные</string>
+    <string name="top_rated">Наиболее рейтинговые</string>
+    <string name="add_to_favorite">Добавлено в избранное</string>
+    <string name="delite_from_favorite">Удалено из избранного</string>
+    <string name="item_main">Главная</string>
+    <string name="item_favorite">Избранная</string>
+    <string name="start_trayler">Запустить трейлер</string>
+    <string name="Big_poster">Большой постер</string>
+    <string name="Add_to_favorite">Добавить в избранное</string>
+    <string name="LabelTitle">Название:</string>
+    <string name="Original_Title">Оригинальное название:</string>
+    <string name="Rating">"Рейтинг: "</string>
+    <string name="ReleaseDate">"Дата выхода: "</string>
+    <string name="Description">"Описание: "</string>
+
+    <string name= "player_error" > Ошибка инициализации проигрывателя YouTube: %s </string >
+    <string name= "seek_to" > Jump To </string >
+    <string name= "seek_to_hint" > Seconds </string >
+</resources>
